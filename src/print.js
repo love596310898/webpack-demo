@@ -1,3 +1,4 @@
-export  function printing() {
-  console.log('I get called from print.js!')
+import async from './async.js'
+export function printing() {
+    console.log('2222222')
 }

@@ -1,5 +1,6 @@
-// import _ from 'lodash'
+import _ from 'lodash'
 import {printing} from './print'
+
 import './index.css'
 function component() {
     let btn = document.createElement('button')
